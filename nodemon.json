@@ -1,0 +1,8 @@
+{
+    "verbose": true,
+    "ignore": [".idea/*",".git/*",".tmp/*","node_modules/*"],
+    "execMap": {
+        "js": "node"
+    },
+    "delay": "2500ms"
+}
